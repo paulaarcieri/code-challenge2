@@ -25,6 +25,7 @@ document.addEventListener("DOMContentLoaded", function() {
       nombre.value = '';
       apellido.value = '';
       fecha.value = '';
+      console.log(data);
     });
 })
 })
